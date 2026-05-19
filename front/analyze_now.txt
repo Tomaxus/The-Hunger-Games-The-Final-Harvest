@@ -1,0 +1,67 @@
+Analyzing front...                                              
+
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:66:11 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:114:28 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:114:50 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:115:20 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:119:28 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:135:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:142:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:146:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\gestion_screen.dart:157:26 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:158:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:158:57 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:159:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:159:57 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:168:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:170:22 - prefer_const_constructors
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\gestion_screen.dart:175:29 - unnecessary_non_null_assertion
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:176:35 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:179:42 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\gestion_screen.dart:205:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\gestion_screen.dart:206:55 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:264:40 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:267:40 - use_build_context_synchronously
+warning - The operand can't be 'null', so the condition is always 'true' - lib\screens\gestion_screen.dart:303:55 - unnecessary_null_comparison
+warning - The operand can't be 'null', so the condition is always 'true' - lib\screens\gestion_screen.dart:305:44 - unnecessary_null_comparison
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\gestion_screen.dart:305:61 - unnecessary_non_null_assertion
+warning - The '!' will have no effect because the receiver can't be null - lib\screens\gestion_screen.dart:312:65 - unnecessary_non_null_assertion
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:315:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:343:36 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:344:59 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps - lib\screens\gestion_screen.dart:347:23 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:349:32 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\gestion_screen.dart:354:38 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\reporte_screen.dart:60:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\reporte_screen.dart:118:40 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps - lib\screens\simulacion_screen.dart:55:28 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\simulacion_screen.dart:72:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\simulacion_screen.dart:73:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\simulacion_screen.dart:85:53 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:92:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:93:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:94:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:96:28 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:99:32 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:130:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:150:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:156:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:157:44 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:210:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:216:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\simulacion_screen.dart:217:44 - prefer_const_constructors
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\simulacion_screen.dart:296:25 - sort_child_properties_last
+   info - Use 'const' with the constructor to improve performance - lib\screens\victoria_screen.dart:39:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\victoria_screen.dart:42:26 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\victoria_screen.dart:54:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\victoria_screen.dart:56:60 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\victoria_screen.dart:99:43 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\custom_app_bar.dart:27:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\custom_app_bar.dart:28:53 - deprecated_member_use
+warning - The operand can't be 'null', so the condition is always 'true' - lib\widgets\tributo_card.dart:38:35 - unnecessary_null_comparison
+warning - The '!' will have no effect because the receiver can't be null - lib\widgets\tributo_card.dart:38:60 - unnecessary_non_null_assertion
+warning - The '!' will have no effect because the receiver can't be null - lib\widgets\tributo_card.dart:39:52 - unnecessary_non_null_assertion
+warning - The operand can't be 'null', so the condition is always 'false' - lib\widgets\tributo_card.dart:41:38 - unnecessary_null_comparison
+warning - The '!' will have no effect because the receiver can't be null - lib\widgets\tributo_card.dart:41:63 - unnecessary_non_null_assertion
+
+63 issues found. (ran in 2.5s)
