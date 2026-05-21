@@ -4,7 +4,7 @@ import '../models/tributo.dart';
 
 class ApiService {
   // Tu IP de Wi-Fi local para la comunicación entre la App y FastAPI
-  final String baseUrl = 'http://192.168.1.52:8000';
+  final String baseUrl = 'http://localhost:8000';
 
   /// RF-001: Obtener la lista de tributos
   Future<List<Tributo>> obtenerTributos() async {
